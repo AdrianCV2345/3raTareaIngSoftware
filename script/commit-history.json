@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "03ada585d9a28c3187afbad99f6cd96f41f7c798",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-21T12:27:22.000Z",
       "message": "Saludador con nombre listo",
-      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/HEAD"
+      "url": "https://github.com/UCB-TallerDeDesarrollo/TDDLabBaseProject/commit/03ada585d9a28c3187afbad99f6cd96f41f7c798"
     },
     "stats": {
       "total": 5972,
       "additions": 2700,
       "deletions": 3272,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-21T12:41:59.000Z",
+      "message": "Saludador segun la hora listo.",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 13,
+      "deletions": 2,
       "date": "2025-08-21"
     },
     "coverage": 100,
