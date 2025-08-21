@@ -10,7 +10,13 @@
       <input type="text" id="nombre" />
       <input type="submit" value="Saludar" id="saludar-button" />
     </form>
-                <div id="saludo-hora-div"></div>
+    <form id="genero-form">
+      <label for="genero">Género:</label>
+      <select id="genero">
+        <option value="masculino">Masculino</option>
+        <option value="femenino">Femenino</option>
+      </select>
+    </form>
     <div id="resultado-div"></div>
     <script type="module" src="./src/presenter.js"></script>
   </body>
