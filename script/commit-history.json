@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "90162b92583530a520225ae864f0332917c5668b",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-26T05:52:42.000Z",
       "message": "feat: Saludo en idioma",
-      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/90162b92583530a520225ae864f0332917c5668b"
     },
     "stats": {
       "total": 49,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-26T06:06:27.000Z",
+      "message": "test: 6 pruebas listas",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 37,
+      "additions": 35,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 68.97,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
