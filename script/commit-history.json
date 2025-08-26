@@ -114,17 +114,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0b3f4c872cf733cb9060bd7a25306c62a5889699",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-26T04:24:24.000Z",
       "message": "feat: Saludo por hora",
-      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/0b3f4c872cf733cb9060bd7a25306c62a5889699"
     },
     "stats": {
       "total": 49,
       "additions": 33,
       "deletions": 16,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-26T04:38:11.000Z",
+      "message": "feat: Saludo por genero",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 19,
+      "deletions": 2,
       "date": "2025-08-26"
     },
     "coverage": 100,
