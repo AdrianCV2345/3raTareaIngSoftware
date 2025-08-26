@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2869798bf77d7ce20cb336eb9bfccf8fbcbb676d",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-26T06:15:49.000Z",
       "message": "fix: netlify error con un package de json",
-      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/2869798bf77d7ce20cb336eb9bfccf8fbcbb676d"
     },
     "stats": {
       "total": 1,
@@ -224,6 +224,25 @@
     },
     "coverage": 68.97,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-26T13:58:19.000Z",
+      "message": "feat: aniadimos la calculadora",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 31,
+      "additions": 17,
+      "deletions": 14,
+      "date": "2025-08-26"
+    },
+    "coverage": 66.67,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
