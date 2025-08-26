@@ -38,18 +38,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "60251f20e22031356a7a4869e4f9bd69d686a481",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-21T13:14:24.000Z",
       "message": "presenter: funcionalidad saludo por genero. index.html: formulario por seleccion de genero",
-      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/60251f20e22031356a7a4869e4f9bd69d686a481"
     },
     "stats": {
       "total": 26,
       "additions": 14,
       "deletions": 12,
       "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-26T02:58:47.000Z",
+      "message": "feat:Saludador con solo Hola",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 60,
+      "additions": 23,
+      "deletions": 37,
+      "date": "2025-08-26"
     },
     "coverage": 100,
     "test_count": 1,
