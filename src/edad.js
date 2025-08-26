@@ -1,4 +1,4 @@
-// Edad.js  (asegúrate del nombre exacto del archivo)
+
 export default class Edad {
   constructor(edad, generoNormalizado) {
     this.edad = parseInt(edad, 10);
@@ -20,7 +20,6 @@ export default class Edad {
       return "";
     }
 
-    // Entre 18 y 30 no agregas tratamiento
     return "";
   }
 }
