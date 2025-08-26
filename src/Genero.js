@@ -1,14 +1,16 @@
+// Genero.js
 export default class Genero {
   constructor(genero) {
-    this.genero = (genero || "").trim();
+    this.genero = (genero || "").toLowerCase().trim();
   }
 
   mostrar() {
-    if(this.genero === "masculino") {
-      return " caballero";
-    } else if(this.genero === "femenino") {
-      return " dama";
+    if (["f", "fem", "femenino", "mujer", "dama", "señorita", "srta"].includes(this.genero)) {
+      return "dama";
     }
-    return " invitado";
+    if (["m", "masc", "masculino", "hombre", "caballero", "sr"].includes(this.genero)) {
+      return "caballero";
+    }
+    return "invitado";
   }
 }
