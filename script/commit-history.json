@@ -190,17 +190,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2d09e7afb28c443f633686e48b0156f3ca63b0ae",
     "author": "Adrian Claros",
     "commit": {
       "date": "2025-08-26T06:06:27.000Z",
       "message": "test: 6 pruebas listas",
-      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/2d09e7afb28c443f633686e48b0156f3ca63b0ae"
     },
     "stats": {
       "total": 37,
       "additions": 35,
       "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 68.97,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Adrian Claros",
+    "commit": {
+      "date": "2025-08-26T06:15:49.000Z",
+      "message": "fix: netlify error con un package de json",
+      "url": "https://github.com/AdrianCV2345/3raTareaIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 0,
+      "deletions": 1,
       "date": "2025-08-26"
     },
     "coverage": 68.97,
